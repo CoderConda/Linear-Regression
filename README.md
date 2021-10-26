@@ -1,9 +1,10 @@
 # Linear-Regression
-First
+
 import numpy as np
 
 x_data =np.array([2,4,5,6,7]).reshape(5,1)
 t_data = np.array([34,45,65,78,90]).reshape(5,1)
+
 W = np.random.rand(1,1)
 b = np.random.rand(1)
 
